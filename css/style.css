@@ -1,0 +1,34 @@
+body{
+    font: 20px;
+}
+
+.navbar{
+    background-color: white;
+}
+
+#main_logo{
+    margin: 10px;
+}
+
+#somos, #parcs, #servs{
+    color: blue;
+}
+
+.nav-item{
+    color: aqua;
+}
+
+.quem-somos{
+    background-color: blue;
+    color: white;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}

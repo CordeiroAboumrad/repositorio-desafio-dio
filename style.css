@@ -13,6 +13,7 @@ body{
 .pic{
     border: 1px solid #505050;
     border-radius: 50px;
+    margin: 15px;
 }
 
 a{
